@@ -1,2 +1,2 @@
-# Ethical_Hacking_and_Penetration_Testing
+# Ethical Hacking and Penetration Testing 
 This repository is all about tips on ethical hacking and penetration testing!

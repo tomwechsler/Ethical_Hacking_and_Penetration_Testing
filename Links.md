@@ -6,8 +6,11 @@ http://www.isecom.org
 
 http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf
 
+https://www.ncsc.gov.uk/guidance/penetration-testing
+
 https://www.bsi.bund.de
 
+https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies
 
 ##  Code of Ethics
 
@@ -32,6 +35,8 @@ https://www.isaca.org/resources/cobit
 https://www.nist.gov/cyberframework
 
 https://learn.microsoft.com/en-us/security/adoption/mcra
+
+http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
 
 ##  Information on new threats
 

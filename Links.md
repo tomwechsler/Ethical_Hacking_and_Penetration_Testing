@@ -58,3 +58,17 @@ https://www.exploit-db.com/search/
 https://www.cve.org/
 
 https://technet.microsoft.com/en-us/security/bulletins
+
+## Tooling
+
+https://www.kali.org/
+
+https://www.metasploit.com/
+
+https://www.nessus.org/
+
+https://www.openvas.org/
+
+https://www.acunetix.com/
+
+https://www.netsparker.com/

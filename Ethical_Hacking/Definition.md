@@ -1,4 +1,4 @@
-# What is Ethical hacking?
+# What is Ethical Hacking?
 
 **From EC-Council:**  
 The Certified Ethical Hacker (C|EH) credentialing and provided by EC-Council is a respected and trusted ethical hacking course in the industry. 

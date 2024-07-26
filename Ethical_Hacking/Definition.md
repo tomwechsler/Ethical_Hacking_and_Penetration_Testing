@@ -41,9 +41,9 @@ The main goal of ethical hacking is to increase the security of a system. This i
 The goal of ethical hacking is to make a system more secure by uncovering and fixing vulnerabilities. This helps to prevent data loss, financial damage and reputational damage that can result from security breaches.
 
 ### Types of ethical hacking
-1. **Web application hacking**: Checking web applications for security vulnerabilities such as SQL injection, XSS (Cross-Site Scripting) and CSRF (Cross-Site Request Forgery).
+1. **Web Application Hacking**: Checking web applications for security vulnerabilities such as SQL injection, XSS (Cross-Site Scripting) and CSRF (Cross-Site Request Forgery).
 2. **Network Hacking**: Testing networks for vulnerabilities such as open ports, insecure services and faulty configurations.
-3. system hacking**: Checking operating systems and servers for vulnerabilities that could lead to unauthorized access.
+3. **System Hacking**: Checking operating systems and servers for vulnerabilities that could lead to unauthorized access.
 4. **Social Engineering**: Human vulnerability testing using techniques such as phishing to see how employees react to manipulative attacks.
 
 ### Sequence of an ethical hacking process

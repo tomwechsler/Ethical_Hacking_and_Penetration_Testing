@@ -81,7 +81,7 @@ https://csrc.nist.gov/pubs/sp/800/207/final
 **Azure Zero Trust security**  
 https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust
 
-**Google Zero Trust security**
+**Google Zero Trust security**  
 https://cloud.google.com/learn/what-is-zero-trust
 
 **NIST SP 800-63 Digital Identity Guidelines**  

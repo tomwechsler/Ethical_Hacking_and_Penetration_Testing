@@ -72,3 +72,17 @@ https://www.openvas.org/
 https://www.acunetix.com/
 
 https://www.netsparker.com/
+
+## Zero Trust Architecture
+
+**NIST SP 800-207**  
+https://csrc.nist.gov/pubs/sp/800/207/final
+
+**Azure Zero Trust security**  
+https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust
+
+**Google Zero Trust security**
+https://cloud.google.com/learn/what-is-zero-trust
+
+**NIST SP 800-63 Digital Identity Guidelines**  
+https://pages.nist.gov/800-63-4/

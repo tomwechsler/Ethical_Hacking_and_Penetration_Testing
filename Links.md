@@ -86,3 +86,9 @@ https://cloud.google.com/learn/what-is-zero-trust
 
 **NIST SP 800-63 Digital Identity Guidelines**  
 https://pages.nist.gov/800-63-4/
+
+**Zscaler - What Is Zero Trust Architecture?**  
+https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-architecture
+
+**OWASP Cheat Sheet Series**  
+https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html

@@ -222,4 +222,4 @@ def faulty_function(x):
 faulty_function(10)
 ```
 
-These examples show how basic Python skills can be applied to various aspects of penetration testing, from network programming to web scraping to security test automation.
+These examples show how basic Python skills can be applied to various aspects of penetration testing, from network programming to web scraping to security test automation. They are by no means complete and conclusive!

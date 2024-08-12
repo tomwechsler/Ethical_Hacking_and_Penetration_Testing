@@ -1,5 +1,7 @@
 As a penetration tester, some basic Python knowledge is essential, as Python is a very versatile and powerful tool for automating tasks, writing exploits and performing security assessments. Here are the most important basic Python skills a penetration tester should have:
 
+> Note: The following list is not exhaustive and may vary depending on the specific requirements of the job or project.
+
 1. **Basic syntax and structure**:
    - Variables and data types (strings, lists, tuples, dictionaries)
    - Control structures (if-else, for and while loops)

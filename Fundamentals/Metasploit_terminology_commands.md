@@ -36,28 +36,28 @@
 
 **set**: A command used to set options for the selected module. For example, `set RHOSTS`.
 
-**show options**: A command used to display the available options for the selected module.
+**show options**: To display the available options for the selected module.
 
-**exploit**: A command used to execute the selected module and exploit the target system.
+**exploit**: To execute the selected module and exploit the target system.
 
-**run**: A command used to execute the selected module or payload.
+**run**: To execute the selected module or payload same as "exploit".
 
-**sessions**: A command used to list the active sessions that have been established with target systems.
+**sessions**: List the active sessions that have been established with target systems.
 
-**sessions -i <session_id>**: A command used to interact with a specific session.
+**sessions -i <session_id>**: To interact with a specific session.
 
 **background**: A command used to background the current session and return to the main Metasploit console.
 
-**search**: A command used to search for modules, payloads, or exploits in the Metasploit Framework.
+**search**: To search for modules, payloads, or exploits in the Metasploit Framework.
 
-**help**: A command used to display help information for the available commands in the Metasploit Framework.
+**help**: To display help information for the available commands in the Metasploit Framework.
 
 **exit**: A command used to exit the Metasploit Framework.
 
-**db_nmap**: A command used to import the results of an nmap scan into the Metasploit database.
+**db_nmap**: To import the results of an nmap scan into the Metasploit database.
 
-**creds**: A command used to display the credentials that have been captured during exploitation.
+**creds**: To display the credentials that have been captured during exploitation.
 
 **vulns**: A command used to display the vulnerabilities that have been identified during exploitation.
 
-**services**: A command used to display the services that are running on the target system.
+**services**: To display the services that are running on the target system.

@@ -92,3 +92,20 @@ https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-arc
 
 **OWASP Cheat Sheet Series**  
 https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html
+
+
+## Live Threat Map's
+
+https://threatmap.checkpoint.com/
+
+https://www.digitalattackmap.com/
+
+https://cybermap.kaspersky.com/
+
+https://livethreatmap.radware.com/
+
+https://threatmap.bitdefender.com
+
+https://threatmap.fortiguard.com/
+
+https://attackmap.sonicwall.com/live-attack-map/

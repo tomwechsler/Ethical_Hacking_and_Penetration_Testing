@@ -354,7 +354,8 @@ root@kali:~# nmap --script=banner.nse -p53 192.168.93.0/24
 root@kali:~# nmap --script=banner.nse -p53 192.168.93.0/24 --open
 
 
-### I hope you enjoyed the tutorial and learned something new!
+I hope you enjoyed the tutorial and learned something new!
+---
 
 ---
 ## *HAPPY SCANNING!*

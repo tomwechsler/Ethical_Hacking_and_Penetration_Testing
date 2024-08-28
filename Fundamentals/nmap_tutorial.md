@@ -331,7 +331,7 @@ root@kali:~# sudo nmap --script=smb-os-discovery.nse -p445 192.168.93.0/24
 
 root@kali:~# sudo nmap --script=smb-os-discovery.nse -p445 -iL targets.txt
 
-Let's take a look at another script
+Let's take a look at another script.
 
 root@kali:~# sudo nmap --script-help banner.nse
 

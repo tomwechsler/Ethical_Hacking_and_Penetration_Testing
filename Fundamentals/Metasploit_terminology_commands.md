@@ -61,3 +61,5 @@
 **vulns**: A command used to display the vulnerabilities that have been identified during exploitation.
 
 **services**: To display the services that are running on the target system.
+
+**hosts**: To display the hosts that have been identified during exploitation.

@@ -57,6 +57,8 @@ https://www.exploit-db.com/search/
 
 https://www.cve.org/
 
+https://www.cvedetails.com/
+
 https://technet.microsoft.com/en-us/security/bulletins
 
 ## Tooling

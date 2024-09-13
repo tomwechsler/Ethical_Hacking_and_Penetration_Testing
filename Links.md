@@ -95,8 +95,11 @@ https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-arc
 **OWASP Cheat Sheet Series**  
 https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html
 
-**NSA Zero Trust Architecture**  
-https://media.defense.gov/2024/May/22/2003470825/-1/-1/0/CSI-APPLICATION-AND-WORKLOAD-PILLAR.PDF
+**NSA Releases Maturity Guidance for the Zero Trust Network and Environment Pillar**  
+https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3695223/nsa-releases-maturity-guidance-for-the-zero-trust-network-and-environment-pillar/
+
+**NSA Embracing a Zero Trust Security Model**  
+https://media.defense.gov/2021/Feb/25/2002588479/-1/-1/0/CSI_EMBRACING_ZT_SECURITY_MODEL_UOO115131-21.PDF
 
 **The Open Group Zero Trust Architecture**  
 https://www.opengroup.org/forum/security-forum-0/zerotrustsecurityarchitecture

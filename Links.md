@@ -95,6 +95,15 @@ https://www.zscaler.com/resources/security-terms-glossary/what-is-zero-trust-arc
 **OWASP Cheat Sheet Series**  
 https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html
 
+**NSA Zero Trust Architecture**  
+https://media.defense.gov/2024/May/22/2003470825/-1/-1/0/CSI-APPLICATION-AND-WORKLOAD-PILLAR.PDF
+
+**The Open Group Zero Trust Architecture**  
+https://www.opengroup.org/forum/security-forum-0/zerotrustsecurityarchitecture
+
+**Zero Trust on AWS**  
+https://aws.amazon.com/security/zero-trust/?nc1=h_ls
+
 
 ## Live Threat Map's
 

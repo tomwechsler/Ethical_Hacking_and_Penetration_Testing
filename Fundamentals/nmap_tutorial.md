@@ -1,4 +1,74 @@
-# nmap tutorial
+# NMAP Cheat Sheet
+
+Base nmap Syntax:
+
+```
+nmap [ScanType] [Options] {targets}
+```
+If no port range is specified, Nmap scans the 1,000 most popular ports.
+
+- `-p <port1>-<port2>`: Scans a port range
+- `-p <port1>,<port2>,...`: Scans a port list
+- `-pU:53,U:110,T20-445`: Mix TCP and UDP
+- `-r`: Scans linearly (does not randomize ports)
+- `--top-ports <n>`: Scan n most popular ports
+- `-p-65535`: Leaving off the initial port in range makes Nmap scan start at port 1
+- `-p-`: Leaving off the end port in range makes Nmap scan all ports
+- `-F`: (Fast (limited port) scan)
+
+## Port Status
+
+- Open: This indicates that an application is listening for connections on this port.
+- Closed: This indicates that the probes were received but there is no application listening on this port.
+- Filtered: This indicates that the probes were not received and the state could not be established. It also indicates that the probes are being dropped by some kind of filtering.
+- Unfiltered: This indicates that the probes were received but a state could not be established.
+- Open/Filtered: This indicates that the port was filtered or open but Nmap couldn’t establish the state.
+- Closed/Filtered: This indicates that the port was filtered or closed but Nmap couldn’t establish the state.
+
+## Scan Types
+
+- `-sn`: Probe only (host discovery, not port scan)
+- `-sS`: SYN Scan
+- `-sT`: TCP Connect Scan
+- `-sU`: UDP Scan
+- `-sV`: Version Scan
+- `-O`: Used for OS Detection/fingerprinting
+- `--scanflags`: Sets custom list of TCP using `URG ACK PSH RST SYN FIN` in any order
+
+## Probing Options
+
+- `-Pn`: Don't probe (assume all hosts are up)
+- `-PB`: Default probe (TCP 80, 445 & ICMP)
+- `-PS<portlist>` : Checks if ssytems are online by probing TCP ports
+- `-PE`: Using ICMP Echo Request
+- `-PP`: Using ICMP Timestamp Request
+- `-PM`: Using ICMP Netmask Request
+
+## Timing Options
+
+- `-T0` (Paranoid): Very slow, used for IDS evasion
+- `-T1` (Sneaky): Quite slow, used for IDS evasion
+- `-T2` (Polite): Slows down to consume less bandwidth, runs ~10 times slower than default
+- `-T3` (Normal): Default, a dynamic timing model based on target responsiveness
+- `-T4` (Aggressive): Assumes a fast and reliable network and may overwhelm targets
+- `-T5` (Insane): Very aggressive; will likely overwhelm targets or miss open ports
+
+## Nmap Scripting Engine
+
+The full list of Nmap Scripting Engine scripts: http://nmap.org/nsedoc/
+
+`nmap -sC` runs default scripts...
+
+Running individual or groups of scripts:
+`nmap --script=<ScriptName>| <ScriptCategory>|<ScriptDir>`
+  
+Using the list of script arguments:
+`nmap --script-args=<Name1=Value1,...>`
+
+Updating the script database:
+`nmap --script-updatedb`
+
+# NMAP Tutorial
 
 ## Creating an inventory
 

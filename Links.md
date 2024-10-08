@@ -6,6 +6,8 @@ http://www.isecom.org
 
 http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf
 
+https://csrc.nist.gov/files/pubs/sp/800/150/ipd/docs/sp800_150_draft.pdf
+
 https://www.ncsc.gov.uk/guidance/penetration-testing
 
 https://www.bsi.bund.de

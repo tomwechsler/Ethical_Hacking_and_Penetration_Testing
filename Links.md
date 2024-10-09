@@ -42,6 +42,13 @@ https://learn.microsoft.com/en-us/security/adoption/mcra
 
 http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
 
+## Mitigation Strategies and Techniques
+
+**Cybersecurity and Infrastructure Security Agency (CISA)**
+https://www.cisa.gov/resources-tools/resources/identifying-and-mitigating-living-land-techniques
+
+https://www.cisa.gov/sites/default/files/2024-02/Joint-Guidance-Identifying-and-Mitigating-LOTL_V3508c.pdf
+
 ##  Information on new threats
 
 https://www.exploit-db.com/

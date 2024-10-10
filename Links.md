@@ -44,10 +44,13 @@ http://www.vulnerabilityassessment.co.uk/Penetration%20Test.html
 
 ## Mitigation Strategies and Techniques
 
-**Cybersecurity and Infrastructure Security Agency (CISA)**
+**Cybersecurity and Infrastructure Security Agency (CISA)**  
 https://www.cisa.gov/resources-tools/resources/identifying-and-mitigating-living-land-techniques
 
 https://www.cisa.gov/sites/default/files/2024-02/Joint-Guidance-Identifying-and-Mitigating-LOTL_V3508c.pdf
+
+**NSA's Top 10 Cybersecurity Mitigation Strategies**  
+https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf
 
 ##  Information on new threats
 

@@ -52,6 +52,9 @@ https://www.cisa.gov/sites/default/files/2024-02/Joint-Guidance-Identifying-and-
 **NSA's Top 10 Cybersecurity Mitigation Strategies**  
 https://www.nsa.gov/portals/75/documents/what-we-do/cybersecurity/professional-resources/csi-nsas-top10-cybersecurity-mitigation-strategies.pdf
 
+**JPMorgan - 12 tips for mitigating cyberattacks**  
+https://www.jpmorgan.com/insights/cybersecurity/ransomware/12-tips-for-mitigating-cyber-risk
+
 ##  Information on new threats
 
 https://www.exploit-db.com/

@@ -1,7 +1,7 @@
 ## Kali Autopilot
 The Kali Autopilot is a tool that automates the process of scanning and enumeration. It is a Python script that uses Nmap and other tools to scan and enumerate a target system. The Kali Autopilot can be used to quickly identify vulnerabilities and misconfigurations in a target system.
 
-### Preparations
+### Preparations:
 
 1. **Install Kali Autopilot**:
 
@@ -24,13 +24,13 @@ kali-autopilot
 4. **Change in to the directory where the script is saved**:
 
 ```
-cd kali-autopilot/juice
+cd kali-autopilot/juicy
 ```
 
 5. **Run the script**:
 
 ```
-python3 juice.py
+python3 juicy.py
 ```
 
 > <img src="/Images/02_KA.JPG" alt="Run the Script">
@@ -43,17 +43,19 @@ http://127.0.0.1/check  (Username and Password => offsec and offsec)
 
 **The Stage 0 has started.**
 
-7. **Starte the Attack**:
+> <img src="/Images/04_KA.JPG" alt="Open the Browser">
+
+7. **Start the Attack**:
 
 Change the URL as below:
 
 http://127.0.0.1/set?mutex=1
 
-> <img src="/Images/04_KA.JPG" alt="Change the URL">
+> <img src="/Images/05_KA.JPG" alt="Change the URL">
 
 8. **Back in the Terminal Show the Results**:
 
-> <img src="/Images/05_KA.JPG" alt="Easter Egg">
+> <img src="/Images/06_KA.JPG" alt="Easter Egg">
 
 ---
 ## *HAPPY ATTACK!*

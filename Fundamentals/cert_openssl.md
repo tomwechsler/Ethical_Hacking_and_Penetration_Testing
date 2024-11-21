@@ -1,14 +1,14 @@
 # Generating a Certificate Using OpenSSL
 
-OpenSSL is an open-source software library that provides cryptographic functions and tools to developers and system administrators. It is widely used in many applications and operating systems to implement secure communication and data protection.
+OpenSSL is an open-source software library that provides cryptographic functions and tools to developers and system administrators. It is used in many applications and operating systems to implement secure communications and data protection.
 
-OpenSSL includes a variety of cryptographic functions, such as encryption and decryption, digital signatures, hash functions, and key management. It also supports various cryptographic protocols, including SSL/TLS, DTLS, and SSH.
+OpenSSL includes a variety of cryptographic functions such as encryption and decryption, digital signatures, hash functions and key management. It also supports various cryptographic protocols, including SSL/TLS, DTLS and SSH.
 
-OpenSSL provides a command-line interface (CLI) tool that allows users to perform cryptographic operations, such as generating keys and certificates, encrypting and decrypting data, and testing network connectivity using SSL/TLS. It also provides a programming interface that can be used by developers to integrate cryptographic functionality into their applications.
+OpenSSL provides a command-line interface (CLI) that allows users to perform cryptographic operations such as generating keys and certificates, encrypting and decrypting data, and testing network connectivity with SSL/TLS. It also provides a programming interface that can be used by developers to integrate cryptographic functions into their applications.
 
-OpenSSL is used in many applications and systems, including web servers, email servers, VPNs, and mobile devices. It is also used by many popular software libraries and frameworks, such as the Python cryptography library and the OpenSSL wrapper for Ruby.
+OpenSSL is used in many applications and systems, including web servers, email servers, VPNs, and mobile devices. It is also used by many popular software libraries and frameworks, such as the Python Cryptography Library and the OpenSSL wrapper for Ruby.
 
-OpenSSL is licensed under the Apache License 2.0, which allows for free use and distribution of the software.
+OpenSSL is licensed under the Apache License 2.0, which allows the software to be used and redistributed free of charge.
 
 ## Generating the Private Key and the Certificate Request
 You can generate a certificate using OpenSSL by following these steps:

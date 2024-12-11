@@ -1,0 +1,5 @@
+lxml
+python-whois
+python3-nmap
+python-wappalyzer
+typer

@@ -1,0 +1,16 @@
+---
+version: "3.5"
+
+services:
+  juice-shop:
+    container_name: juice-shop
+    image: bkimminich/juice-shop:v14.0.0
+    ports:
+      - 127.0.0.1:3000:3000
+    restart: unless-stopped
+  webgoat:
+    container_name: webgoat
+    image: webgoat/webgoat
+    ports:
+      - 127.0.0.1:8000:8080
+      - 127.0.0.1:9090:9090

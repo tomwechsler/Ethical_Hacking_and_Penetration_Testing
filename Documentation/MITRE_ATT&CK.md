@@ -75,6 +75,8 @@ The final goal is to steal sensitive data.
 
 - **Procedure**: Writing custom scripts to exfiltrate sensitive user data in small, encrypted chunks.
 
+---
+
 <img src="/Images/mitre_ttps.png" alt="Tactics, Techniques, and Procedures (TTPs)">
 
 ---

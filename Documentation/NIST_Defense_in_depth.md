@@ -97,3 +97,5 @@ In today’s complex threat landscape, no single security measure is enough. Lev
 ---
 
 []: # (Credit: The content of this article is inspired by the NIST Cybersecurity Framework and various cybersecurity resources.)
+
+> Source: https://www.nist.gov/cybersecurity

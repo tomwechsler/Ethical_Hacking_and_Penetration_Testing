@@ -98,4 +98,4 @@ In today’s complex threat landscape, no single security measure is enough. Lev
 
 []: # (Credit: The content of this article is inspired by the NIST Cybersecurity Framework and various cybersecurity resources.)
 
-> Source: https://www.nist.gov/cybersecurity
+> Source: https://www.nist.gov/cybersecurity and https://ussignal.com/blog/moving-beyond-blinky-box-security-to-defense-in-depth-security

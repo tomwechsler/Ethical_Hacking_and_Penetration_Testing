@@ -1,8 +1,8 @@
 # Security Architecture for Companies: Aligning Cyber Security with Business Goals
 
-In today’s digital economy, cyber security must go beyond technical controls and become an integral part of business strategy. Achieving this alignment ensures not only protection against threats but also seamless support for business goals like customer satisfaction, regulatory compliance, and operational efficiency.
+In today's digital economy, cyber security must go beyond technical controls and become an integral part of business strategy. Achieving this alignment ensures not only protection against threats but also seamless support for business goals like customer satisfaction, regulatory compliance, and operational efficiency.
 
-This article explores how the **SABSA (Sherwood Applied Business Security Architecture)** framework enables companies to integrate security into their business strategy. We’ll examine SABSA’s layers, compare it with other frameworks, provide practical examples, and enrich the discussion with visuals and additional use cases.
+This article explores how the **SABSA (Sherwood Applied Business Security Architecture)** framework enables companies to integrate security into their business strategy. We'll examine SABSA's layers, compare it with other frameworks, provide practical examples, and enrich the discussion with visuals and additional use cases.
 
 ---
 
@@ -14,7 +14,7 @@ SABSA is a comprehensive, business-driven security architecture framework design
 
 ### The SABSA Lifecycle Model: A Holistic Approach
 
-SABSA’s **six-layered lifecycle model** ensures a top-down alignment, starting with business goals and cascading into specific security measures.
+SABSA's **six-layered lifecycle model** ensures a top-down alignment, starting with business goals and cascading into specific security measures.
 
 | **Layer**                 | **Purpose**                                           | **Example**                                                      |
 |---------------------------|-------------------------------------------------------|------------------------------------------------------------------|
@@ -133,7 +133,7 @@ A simple flowchart to explain the SABSA layers:
 
 ## SABSA vs. Other Frameworks
 
-To further emphasize SABSA’s value, let’s expand the comparison with practical examples:
+To further emphasize SABSA's value, let's expand the comparison with practical examples:
 
 | **Framework**            | **Focus Area**                              | **Strengths**                                  | **Weaknesses**                              |
 |---------------------------|---------------------------------------------|-----------------------------------------------|---------------------------------------------|

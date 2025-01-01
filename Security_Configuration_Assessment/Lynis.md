@@ -114,7 +114,7 @@ lynis show version
 
 ### **2. Installing Lynis on Rocky Linux**
 
-#### **Step 1: Update the System**  
+#### **Step 1: Update the System**  
 Ensure the system is updated before installing any software.
 
 ```

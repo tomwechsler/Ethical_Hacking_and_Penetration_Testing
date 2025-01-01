@@ -89,7 +89,7 @@ This guide covers installing Lynis on:
 
 ### **1. Installing Lynis on Ubuntu**
 
-#### **Step 1: Update the System**  
+### **Step 1: Update the System**  
 Before installing any new software, ensure your system is updated.
 
 ```

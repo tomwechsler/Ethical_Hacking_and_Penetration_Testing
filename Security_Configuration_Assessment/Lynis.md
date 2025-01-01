@@ -89,21 +89,21 @@ This guide covers installing Lynis on:
 
 ### **1. Installing Lynis on Ubuntu**
 
-#### Step 1: Update the System  
+#### **Step 1: Update the System**  
 Before installing any new software, ensure your system is updated.
 
 ```
 sudo apt update && sudo apt upgrade -y
 ```
 
-### **2. Install Lynis**  
+### **Step 2: Install Lynis**  
 Lynis is available in the default Ubuntu repositories. Install it using the following command:
 
 ```
 sudo apt install lynis
 ```
 
-### **2. Verify Installation**  
+### **Step 3: Verify Installation**  
 Confirm that Lynis is installed and accessible by checking its version:
 
 ```

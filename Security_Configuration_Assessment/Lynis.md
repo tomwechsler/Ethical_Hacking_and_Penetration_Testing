@@ -79,6 +79,71 @@ Lynis is typically used in various phases of a security assessment, depending on
 
 ---
 
+## Installation Guide
+
+This guide covers installing Lynis on:
+1. **Ubuntu (Debian-based distributions)**
+2. **Rocky Linux (Red Hat-based distributions)**
+
+---
+
+### **1. Installing Lynis on Ubuntu**
+
+#### Step 1: Update the System  
+Before installing any new software, ensure your system is updated.
+
+```
+sudo apt update && sudo apt upgrade -y
+```
+
+### **2. Install Lynis**  
+Lynis is available in the default Ubuntu repositories. Install it using the following command:
+
+```
+sudo apt install lynis
+```
+
+### **2. Verify Installation**  
+Confirm that Lynis is installed and accessible by checking its version:
+
+```
+lynis show version
+```
+
+---
+
+### **2. Installing Lynis on Rocky Linux**
+
+### **Step 1: Update the System**  
+Ensure the system is updated before installing any software.
+
+```
+sudo dnf update -y
+```
+
+### **Step 2: Enable EPEL Repository**  
+Lynis is available in the EPEL (Extra Packages for Enterprise Linux) repository. Enable it with:
+
+```
+sudo dnf install epel-release -y
+```
+
+### **Step 3: Install Lynis**  
+Once the EPEL repository is enabled, install Lynis using:
+
+```
+sudo dnf install lynis -y
+```
+
+### **Step 4: Verify Installation**  
+Check the installed version of Lynis to ensure it is properly installed:
+
+```
+lynis show version
+```
+
+---
+
 ## **How Lynis Works**
 
 Lynis operates in several key stages:

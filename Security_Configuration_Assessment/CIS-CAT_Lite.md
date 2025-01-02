@@ -95,7 +95,7 @@ CIS-CAT Lite is available for free download from the **[CIS website](https://lea
 
 ## Diagram: CIS-CAT Lite Workflow
 
-Here’s a visual representation of how CIS-CAT Lite fits into a typical security workflow:
+Here’s a representation of how CIS-CAT Lite fits into a typical security workflow:
 
 1. **Download & Setup**: Acquire the tool and CIS Benchmarks.
 2. **Select Benchmark**: Choose a relevant benchmark (e.g., Windows 10 Security).

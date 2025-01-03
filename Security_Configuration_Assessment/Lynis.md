@@ -223,3 +223,7 @@ Extend functionality using plugins for specific tools or compliance standards.
 Lynis is an indispensable tool for system administrators and security professionals. It helps identify security gaps, improve system hardening, and ensure compliance with industry standards. By integrating Lynis into regular security assessments, organizations can maintain a proactive and robust security posture.
 
 For more information, visit the official [Lynis website](https://cisofy.com/lynis/).
+
+[]: # (Credit: The content of this article is inspired by the Lynis documentation and various cybersecurity resources.)
+
+> Source: [CISOfy Lynis](https://cisofy.com/lynis/) and [Lynis GitHub Repository](https://github.com/CISOfy/lynis)

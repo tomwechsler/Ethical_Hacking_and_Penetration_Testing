@@ -26,7 +26,7 @@ These are projects in development or under active improvement. Examples include:
 These projects are in the initial stages of development, focusing on innovative ideas and approaches to application security.
 
 ### 4. **Educational Projects**
-- **OWASP Cheat Sheet Series**: Concise and actionable guidelines for specific security topics.
+- **OWASP Cheat Sheet Series**: Concise and actionable guidelines for specific security topics. [OWASP Cheat Sheets](https://cheatsheetseries.owasp.org/).
 - **OWASP DevSlop**: A set of DevSecOps-related lessons and resources.
 
 ---

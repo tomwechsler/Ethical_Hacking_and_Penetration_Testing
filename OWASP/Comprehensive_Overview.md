@@ -12,10 +12,10 @@ OWASP is known for its diverse range of projects, which are designed to address 
 
 ### 1. **Flagship Projects**
 These are the most well-known and mature projects, often used as standards within the industry:
-- **OWASP Top 10**: A list of the top ten most critical web application security risks, updated periodically.
-- **OWASP ASVS (Application Security Verification Standard)**: A framework for assessing the security of web applications.
-- **OWASP ZAP (Zed Attack Proxy)**: A popular open-source penetration testing tool for web applications.
-- **OWASP SAMM (Software Assurance Maturity Model)**: A framework to guide organizations in integrating security into their software development lifecycle.
+- **OWASP Top 10**: A list of the top ten most critical web application security risks, updated periodically. [OWASP Top 10 2021](https://owasp.org/www-project-top-ten/).
+- **OWASP ASVS (Application Security Verification Standard)**: A framework for assessing the security of web applications. [OWASP ASVS](https://owasp.org/www-project-application-security-verification-standard/).
+- **OWASP ZAP (Zed Attack Proxy)**: A popular open-source penetration testing tool for web applications. [OWASP ZAP](https://www.zaproxy.org/download/).
+- **OWASP SAMM (Software Assurance Maturity Model)**: A framework to guide organizations in integrating security into their software development lifecycle. [OWASP SAMM](https://owasp.org/www-project-samm/).
 
 ### 2. **Lab Projects**
 These are projects in development or under active improvement. Examples include:

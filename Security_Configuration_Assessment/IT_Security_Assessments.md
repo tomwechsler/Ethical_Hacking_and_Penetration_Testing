@@ -148,7 +148,7 @@ Each assessment reinforces layered security:
 
 ## **8. Conclusion**
 
-The five assessments—Risk, Security Control, Compliance, Vulnerability, and Penetration Testing—are critical to a comprehensive cybersecurity strategy. Together, they provide a framework for identifying, mitigating, and validating risks. By linking these assessments to business objectives and employing the principles of "Defense in Depth," organizations can enhance their resilience against evolving threats. A continuous and integrated assessment cycle is essential for long-term security success.
+The five assessments — Risk, Security Control, Compliance, Vulnerability, and Penetration Testing — are critical to a comprehensive cybersecurity strategy. Together, they provide a framework for identifying, mitigating, and validating risks. By linking these assessments to business objectives and employing the principles of "Defense in Depth," organizations can enhance their resilience against evolving threats. A continuous and integrated assessment cycle is essential for long-term security success.
 
 ---
 

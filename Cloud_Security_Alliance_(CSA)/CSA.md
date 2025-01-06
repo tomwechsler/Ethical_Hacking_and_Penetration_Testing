@@ -1,5 +1,7 @@
 # **The Cloud Security Alliance (CSA): A Comprehensive Overview**
 
+<img src="/Images/clodsa.jpeg" alt="Cloud Security" width="500"/>
+
 ## **What is the Cloud Security Alliance (CSA)?**
 
 The Cloud Security Alliance (CSA) is a globally recognized, not-for-profit organization dedicated to defining and promoting best practices to ensure a secure cloud computing environment. Founded in 2009, the CSA serves as a trusted resource for businesses, governments, and individuals seeking to understand and mitigate risks associated with cloud technologies. By leveraging the expertise of industry practitioners, associations, governments, and corporate members, CSA provides research, education, certifications, and tools to promote security assurance in cloud computing.

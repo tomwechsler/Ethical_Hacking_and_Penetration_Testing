@@ -154,4 +154,4 @@ The five assessments — Risk, Security Control, Compliance, Vulnerability, and 
 
 []: # (Credit: The content of this article is inspired by NIST, CIS, and OWASP documentation, and various cybersecurity resources.)
 
-Sources: [NIST](https://www.nist.gov), [CIS](https://www.cisecurity.org), [OWASP](https://owasp.org)
+Sources: [NIST](https://www.nist.gov), [CIS](https://www.cisecurity.org), [OWASP](https://owasp.org) and [US Signal](https://ussignal.com/blog/moving-beyond-blinky-box-security-to-defense-in-depth-security)

@@ -1,7 +1,7 @@
 # NIST Computer Security Incident Handling Guide: A Comprehensive Overview
 
 ## **Introduction and Description**
-In today’s increasingly digital world, cybersecurity incidents such as data breaches, ransomware attacks, and phishing scams are not just possible but inevitable. These incidents have the potential to disrupt operations, tarnish reputations, and incur significant financial and legal penalties. To combat these challenges, the **National Institute of Standards and Technology (NIST)** developed the **Computer Security Incident Handling Guide (SP 800-61 Rev. 2)**.
+In today's increasingly digital world, cybersecurity incidents such as data breaches, ransomware attacks, and phishing scams are not just possible but inevitable. These incidents have the potential to disrupt operations, tarnish reputations, and incur significant financial and legal penalties. To combat these challenges, the **National Institute of Standards and Technology (NIST)** developed the **Computer Security Incident Handling Guide (SP 800-61 Rev. 2)**.
 
 This guide provides a structured, systematic approach to managing cybersecurity incidents, helping organizations reduce their impact, recover quickly, and improve their response strategies over time. Applicable to organizations of all sizes and sectors, the guide outlines best practices for preparation, detection, analysis, containment, eradication, and recovery. It also emphasizes learning from incidents to build a resilient cybersecurity posture.
 

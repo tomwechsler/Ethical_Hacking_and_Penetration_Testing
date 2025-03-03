@@ -9,7 +9,7 @@ Cybersecurity architecture forms the **foundation of enterprise security**, ensu
 3. **Threat Management** – Monitoring and responding to active threats.
 4. **Trust Management** – Establishing and enforcing security governance and encryption policies.
 
-These four disciplines collectively **strengthen an organization’s security posture** and align with modern security frameworks such as **Zero Trust Architecture (ZTA), NIST Cybersecurity Framework, and ISO 27001**.
+These four disciplines collectively **strengthen an organization's security posture** and align with modern security frameworks such as **Zero Trust Architecture (ZTA), NIST Cybersecurity Framework, and ISO 27001**.
 
 This article explores each discipline in **detail**, compares them to **industry standards**, and examines how they integrate into the **Zero Trust model**.
 

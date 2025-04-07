@@ -6,6 +6,12 @@
 sudo pip install python-nmap
 ```
 
+or
+
+```
+sudo apt install python3-nmap
+```
+
 ### Create the python script
 
 vim auto-nmap.py

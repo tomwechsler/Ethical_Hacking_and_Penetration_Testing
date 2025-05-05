@@ -83,7 +83,7 @@ Edit `/etc/selinux/config`
 sudo reboot
 ```
 
-- Connect to your host via SSH (replace `10.1.2.3` with your own address and verify your SELinux installation's status:
+- Connect to your host via SSH (replace `10.1.2.3` with your own address and verify your SELinux installation's status):
 ```
 ssh tom@10.1.2.3
 sudo sestatus

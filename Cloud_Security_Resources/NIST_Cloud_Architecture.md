@@ -80,6 +80,6 @@
 
 ---
 
-[]: # (Credit: The content of this article is inspired by the PTES, OWASP, NIST, and MITRE ATT&CK frameworks.)
+[]: # (Credit: The content of this article is inspired by the Google, Amazon, NIST, and Microsoft Azure frameworks.)
 
 > Source: [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/), [AWS Well-Architected](https://aws.amazon.com/de/architecture/well-architected), [NIST Cloud Computing Reference Architecture](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication500-292.pdf), [Google Well-Architected Framework](https://cloud.google.com/architecture/framework)

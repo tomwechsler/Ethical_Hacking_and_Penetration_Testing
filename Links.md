@@ -140,3 +140,12 @@ https://threatmap.bitdefender.com
 https://threatmap.fortiguard.com/
 
 https://attackmap.sonicwall.com/live-attack-map/
+
+**Certifications**  
+https://www.isc2.org/Certifications
+
+https://www.giac.org/certifications
+
+https://www.comptia.org/certifications
+
+https://www.eccouncil.org/train-certify/

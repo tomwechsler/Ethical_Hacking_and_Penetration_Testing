@@ -141,7 +141,8 @@ https://threatmap.fortiguard.com/
 
 https://attackmap.sonicwall.com/live-attack-map/
 
-**Certifications**  
+## Certifications
+
 https://www.isc2.org/Certifications
 
 https://www.giac.org/certifications

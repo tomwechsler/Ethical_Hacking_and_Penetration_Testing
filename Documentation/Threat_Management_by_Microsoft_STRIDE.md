@@ -116,6 +116,6 @@ By pairing STRIDE with tools like DREAD, integrating it into DevSecOps pipelines
 
 ---
 
-[]: # (Credit: The content of this article is inspired by the Cloud Security Alliance (CSA), Google, Amazon, NIST, and Microsoft Azure frameworks.)
+[]: # (Credit: The content of this article is inspired by the Cloud Security Alliance (CSA), Microsoft, MITRE ATT&CK, and NIST).
 
 > Source: [Microsoft Threat Modeling Tool threats](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats), [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling), [MITRE ATT&CK Framework](https://attack.mitre.org/), [NIST SP 800-154](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf), [Cloud Security Alliance Threat Modeling Guidance](https://cloudsecurityalliance.org/artifacts/cloud-threat-modeling).

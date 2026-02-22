@@ -28,9 +28,11 @@ Risk Assessment identifies, evaluates, and prioritizes potential risks to an org
 - **Calculation**:  
   - Risk = Probability × Impact  
   - Risk = 0.2 × $500,000 = $100,000  
-- **Mitigation**: Introducing daily backups ($20,000) reduces probability to 5%.  
+- **Mitigation**: 
+  - Introducing daily backups ($20,000) reduces probability to 5%.  
   - New Risk = 0.05 × $500,000 = $25,000  
-- **Outcome**: A $20,000 investment reduces potential loss by $75,000.
+- **Outcome**: 
+  - A $20,000 investment reduces potential loss by $75,000.
 
 ### **Link to Next Assessment**
 The identified risks guide the **Security Control Assessment** to validate whether mitigation controls are effective.
